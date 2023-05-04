@@ -118,7 +118,7 @@ export const Formulario = ({
             Nombre Del Propietario*
           </label>
           <input
-            id="nombre"
+            id="propietario"
             className="border-2 mt-2 p-2 w-full placeholder-gray-400 rounded-md"
             type="text"
             placeholder="Nombre del propietario"
